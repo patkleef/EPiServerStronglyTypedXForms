@@ -1,2 +1,2 @@
-EPiServerStronglyTypedXForms
+EPiServer strongly typed XForms
 ============================
